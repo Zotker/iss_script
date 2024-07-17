@@ -5,5 +5,8 @@
 
 Запускается на Raspberry Pi которая висит над серверной (или на любом другом линуксовском терминале).
 
+![tablo](https://github.com/user-attachments/assets/0b462fd3-f1b5-44cb-beb2-cc0a07b66eca)
+
+
 # Требуемые библиотеки для работы скриптов:
 requests - ``pip install requests``
